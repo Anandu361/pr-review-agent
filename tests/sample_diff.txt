@@ -1,0 +1,7 @@
+diff --git a/app.py b/app.py
+--- a/app.py
++++ b/app.py
+@@ -10,3 +10,4 @@ def hello():
+     print("Hello")
+-    print("old")
++    print("new")
